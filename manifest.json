@@ -1,0 +1,11 @@
+{
+    "files": {
+        "config.json": "04410f160b1b6fc3a874a40bad2d046ad10406efff594af0ca818839c3986f06",
+        "index.js": "a5649c427f64c8ee70e9d5bdae1fdf2d9545473cfad8eebaf13440811492b84e",
+        "module.json": "f2082dd694bcf5ee30b9ca9a23c096252fa6414393efec2a7a2d2c258a1787ce"
+    },
+    "defs": {
+        "S_LOGIN": "*",
+        "S_WHISPER": "*"
+    }
+}

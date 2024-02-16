@@ -1,0 +1,15 @@
+{
+    "enabled" : true,
+    "_enabled" : "Set to true to enable the module of false to disable it. Anything below here, requires enabled set to true in order to function.",
+
+    "reminderDelay" : 1,
+    "_reminderDelay" : "This is how long the reminders are gonna take to show up to you, in-game ( in seconds).",
+
+    "assistantName" : "Brawn",
+    "_assistantName" : "This is the name that the Whispers/Reminders you get will be from. Go crazy with the name.",
+
+    "_reminder" : "This is where you put your reminder messages. Set to 0 to disable the reminder.",
+    "reminders" : [
+        "This message will show up."
+    ]
+}

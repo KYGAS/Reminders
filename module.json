@@ -1,0 +1,12 @@
+{
+    "name": "Reminder Helper",
+    "author": "Brawn / Kygas",
+    "description": "Set Reminders to see when you log in TERA",
+    "version": "1.0",
+    "options": {
+        "niceName": "REM",
+        "guiName": "Reminder Helper"
+    },
+    "servers": ["https://raw.githubusercontent.com/KYGAS/reminders/master/"],
+    "disableAutoUpdate": false
+}
